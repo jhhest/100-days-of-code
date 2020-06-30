@@ -10,7 +10,17 @@
 **Link to work**: 
 - This github Repository. 
 - https://www.freecodecamp.org/jan@vanhest.work
-
+## Day 1: 
+**Today's Progress**:
+- Started out simple with some assignments from freeCodecamp.
+- Made an announcement on linked in that i started day 2 of this  challenge and i want to finish the front end library certfication of FCC.
+**Thought's**:
+- Difficult to start. Covid19 Depression symptoms.
+- Happy that i started. Challenges work motivating.
+**Link to work**:
+- This github Repository.
+- https://www.freecodecamp.org/jan@vanhest.work
+- linkedIn Profile
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
