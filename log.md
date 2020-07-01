@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-## Day 0: June 29 2020
+## Day 0: June 29, 2020
 **Today's Progress**:
 - Started out simple with some assignments from freeCodecamp. 
 - Made an announcement on linked in that i started this challenge. 
@@ -10,7 +10,7 @@
 **Link to work**: 
 - This github Repository. 
 - https://www.freecodecamp.org/jan@vanhest.work
-## Day 1: 
+## Day 1: June 30, 2020
 **Today's Progress**:
 - Started out simple with some assignments from freeCodecamp.
 - Made an announcement on linked in that i started day 2 of this  challenge and i want to finish the front end library certfication of FCC.
@@ -21,7 +21,16 @@
 - This github Repository.
 - https://www.freecodecamp.org/jan@vanhest.work
 - linkedIn Profile
-
+### Day 2: 1 Juli , 2020
+**Today's Progress:**
+- Finished React part of Freecodecamp front end library certification. 
+- Updated linkedin with day 3. 
+**Thoughts:** 
+- Starting to become more fun. 
+**Link to work:**
+- This github Repository.
+- https://www.freecodecamp.org/jan@vanhest.work
+- linkedIn Profile
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
