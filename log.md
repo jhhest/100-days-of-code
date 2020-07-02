@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
 
+## Week 1
+- First week of #100 days of code
+
 ## Day 0: June 29, 2020
 **Today's Progress**:
 - Started out simple with some assignments from freeCodecamp. 
