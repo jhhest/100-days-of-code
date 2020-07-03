@@ -46,8 +46,16 @@
 - This github Repository.
 - https://www.freecodecamp.org/jan@vanhest.work
 - linkedIn Profile
-
-
+### Day 4: 3 Juli, 2020
+**Today's Progress:**
+-- Focused on redux and react. 
+**Thoughts:**
+- The FreeCodeCamp program is using a lot class based react components. 
+- I think i will take a look at a udemy course from brad traversy and will try to implement my gained knowledge in a portfolio project. 
+**Link to work:**
+- This github Repository.
+- https://www.freecodecamp.org/jan@vanhest.work
+- linkedIn Profile
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
