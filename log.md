@@ -56,6 +56,14 @@
 - This github Repository.
 - https://www.freecodecamp.org/jan@vanhest.work
 - linkedIn Profile
+### Day 6: 
+- It is quite amazing that redux can be explained in so many ways. It is difficult to find good sources in which you feel that you are really getting wiser.
+- I received some nice examples of udemy courses to find some guidance. Next week I will see how I can implement this in a project. I also want to publish a bit more on github. So it's going to be a good brainstorming session.
+- It is difficult to produce a good satisfying a good result. There is no lack of motivation, but motivation is not enough. You also need a focus. # 100DaysOfCode is a fun, enjoyable way to balance this. Will i work on a course? Will i come up with project for on my own. Will i look for a collaboration?
+- I wonder how other people do this. How do you deal with the free time that a pandamie like corona offers. It can be quite depressing, especially when you're out of work. But it also offers many possibilities, time for yourself and work on your creativity while keeping boundaries.
+
+On to week 2!
+
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
