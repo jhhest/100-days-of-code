@@ -3,7 +3,7 @@
 ## Week 1
 - First week of #100 days of code
 
-## Day 0: June 29, 2020
+## Day 1: June 29, 2020
 **Today's Progress**:
 - Started out simple with some assignments from freeCodecamp. 
 - Made an announcement on linked in that i started this challenge. 
@@ -13,7 +13,7 @@
 **Link to work**: 
 - This github Repository. 
 - https://www.freecodecamp.org/jan@vanhest.work
-## Day 1: June 30, 2020
+## Day 2: June 30, 2020
 **Today's Progress**:
 - Started out simple with some assignments from freeCodecamp.
 - Made an announcement on linked in that i started day 2 of this  challenge and i want to finish the front end library certfication of FCC.
@@ -24,7 +24,7 @@
 - This github Repository.
 - https://www.freecodecamp.org/jan@vanhest.work.
 - linkedIn Profile.
-### Day 2: 1 Juli , 2020
+### Day 3: 1 Juli , 2020
 **Today's Progress:**
 - Finished React part of Freecodecamp front end library certification. 
 - Updated linkedin with day 3. 
@@ -34,7 +34,7 @@
 - This github Repository.
 - https://www.freecodecamp.org/jan@vanhest.work.
 - linkedIn Profile.
-### Day 3: 2 Juli, 2020
+### Day 4: 2 Juli, 2020
 **Today's Progress:**
 - Focused on React.
 - Started little bit with redux. 
@@ -46,7 +46,7 @@
 - This github Repository.
 - https://www.freecodecamp.org/jan@vanhest.work
 - linkedIn Profile
-### Day 4: 3 Juli, 2020
+### Day 5: 3 Juli, 2020
 **Today's Progress:**
 -- Focused on redux and react. 
 **Thoughts:**
@@ -56,15 +56,17 @@
 - This github Repository.
 - https://www.freecodecamp.org/jan@vanhest.work
 - linkedIn Profile
-### Day 6: 
+### Day 6 / 7: 
 - It is quite amazing that redux can be explained in so many ways. It is difficult to find good sources in which you feel that you are really getting wiser.
 - I received some nice examples of udemy courses to find some guidance. Next week I will see how I can implement this in a project. I also want to publish a bit more on github. So it's going to be a good brainstorming session.
 - It is difficult to produce a good satisfying a good result. There is no lack of motivation, but motivation is not enough. You also need a focus. # 100DaysOfCode is a fun, enjoyable way to balance this. Will i work on a course? Will i come up with project for on my own. Will i look for a collaboration?
 - I wonder how other people do this. How do you deal with the free time that a pandamie like corona offers. It can be quite depressing, especially when you're out of work. But it also offers many possibilities, time for yourself and work on your creativity while keeping boundaries.
 
 On to week 2!
-
-
+### Day 8 / 9
+** Progress **: Almost finished front end certfication. 
+** Thoughts **: I really have to make a start with making a portfolio. . Tomorrow i will start making a caculator app. This is a portfolio assignment for the Freecodecamp front end certfication. 
+** Link to work **: This github and linkedin profile with updates. 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
