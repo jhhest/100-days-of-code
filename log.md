@@ -67,6 +67,11 @@ On to week 2!
 ** Progress **: Almost finished front end certfication. 
 ** Thoughts **: I really have to make a start with making a portfolio. . Tomorrow i will start making a caculator app. This is a portfolio assignment for the Freecodecamp front end certfication. 
 ** Link to work **: This github and linkedin profile with updates. 
+### Day 10: 
+** Progress **: worked for an hour with redux.. Everything went a bit slow. 
+** Thoughts **: This takes to long. Tommorow i have to finish the chapter and start my portfolio Assignment. 
+** Linkt to work**: this gitub and my linkedIn profile. 
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
