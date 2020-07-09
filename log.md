@@ -70,8 +70,11 @@ On to week 2!
 ### Day 10: 
 ** Progress **: worked for an hour with redux.. Everything went a bit slow. 
 ** Thoughts **: This takes to long. Tommorow i have to finish the chapter and start my portfolio Assignment. 
-** Linkt to work**: this gitub and my linkedIn profile. 
-
+** Linkt to work**: This gitub and my linkedIn profile. 
+### Day 11: 
+** Progress **: Almost finished redux chapter.. Did not had time to start with the portfolio assignments this week. 
+** Thoughts **: Due to my crashing 3d printer i spend less time to my coding than i wanted to. 
+** Link to work**: This github page and my linkedin profile. 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
