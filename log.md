@@ -75,6 +75,11 @@ On to week 2!
 ** Progress **: Almost finished redux chapter.. Did not had time to start with the portfolio assignments this week. 
 ** Thoughts **: Due to my crashing 3d printer i spend less time to my coding than i wanted to. 
 ** Link to work**: This github page and my linkedin profile. 
+### Day 12: 
+** Progress **: finished all exercises FCC front-end certfication. 
+** Thoughts **: I have to finish the portfolio Assignments. 
+** Link to work **: This github and my linkedin profile. 
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
