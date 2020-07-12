@@ -79,7 +79,15 @@ On to week 2!
 ** Progress **: finished all exercises FCC front-end certfication. 
 ** Thoughts **: I have to finish the portfolio Assignments. 
 ** Link to work **: This github and my linkedin profile. 
+### Day 13: 
+** Progress **: 
+- Made a plan for the portfolio assignments of the freecodecamp certfication. 
+- Made a brainstrom for the calculator app. 
+### Day 14: 
+Off Day 
 
+### Day 101: 
+Extra day.. Day 14 is was an off day. 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
