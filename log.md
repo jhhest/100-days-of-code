@@ -85,6 +85,11 @@ On to week 2!
 - Made a brainstrom for the calculator app. 
 ### Day 14: 
 Off Day 
+### Day 15:
+** Progress **:
+- Installed wsl2. 
+- fcc portfolio assignment. 
+
 
 ### Day 101: 
 Extra day.. Day 14 is was an off day. 
