@@ -89,7 +89,10 @@ Off Day
 ** Progress **:
 - Installed wsl2. 
 - fcc portfolio assignment. 
-
+### Day 16: 
+** Progress **: 
+** Thoughts **: Starting to get out of coding depression. 
+** Linkt to work: ** https://github.com/jhhest/Random-Quote-Machine
 
 ### Day 101: 
 Extra day.. Day 14 is was an off day. 
