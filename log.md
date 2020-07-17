@@ -90,9 +90,24 @@ Off Day
 - Installed wsl2. 
 - fcc portfolio assignment. 
 ### Day 16: 
-** Progress **: 
+** Progress **: Started with random Quote machine. 
 ** Thoughts **: Starting to get out of coding depression. 
 ** Linkt to work: ** https://github.com/jhhest/Random-Quote-Machine
+
+### Day 17: 
+
+### Day 18: 
+** Progress **: 
+- Have some problems getting back on track. Things that used to be simple like fetching data. 
+They are working slightly different when you are using a functional component instead of a class based component. 
+- I am using the traversy media course to find the needed information. 
+- Have to take a closer look to javascript promises. 
+** thoughts:**
+- Github is starting to look better. 
+- I have to organize better. I have to make time for my own portfolio site. 
+** Link to work:**
+### Day 19: 
+** thoughts: ** Today i am sick. I watch a udemy course from traversy media. 
 
 ### Day 101: 
 Extra day.. Day 14 is was an off day. 
