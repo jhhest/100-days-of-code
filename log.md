@@ -158,13 +158,26 @@ Off Day
 
 ## Day 22:
 
-** Progress:** Started out working on my portfolio site.
 ** Thoughts:** Still sick, but i have to work. Skills are still a bit rusty and need to flex my coding muscles!
-** Work:** My github profile and linkedIn profile. 
+** Work:** My github profile and linkedIn profile.
+
+## Day 23: 
+** Thoughts and products:** 
+- Still sick, tomorrow checkup for corona. 
+- Working out my portfolio feels like a good move. Brings in the positivity and some small succes moments. 
+- Products on github. 
 
 ### Day 101:
 
 Extra day.. Day 14 is was an off day.
+
+### Day 102:
+
+Extra day.. Day 20 i was sick.
+
+### Day 103:
+
+Extra day.. Day 21 i was Sick
 
 ### Day 0: February 30, 2016 (Example 1)
 
