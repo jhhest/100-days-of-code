@@ -161,11 +161,27 @@ Off Day
 ** Thoughts:** Still sick, but i have to work. Skills are still a bit rusty and need to flex my coding muscles!
 ** Work:** My github profile and linkedIn profile.
 
-## Day 23: 
-** Thoughts and products:** 
-- Still sick, tomorrow checkup for corona. 
-- Working out my portfolio feels like a good move. Brings in the positivity and some small succes moments. 
-- Products on github. 
+## Day 23:
+
+** Thoughts and products:**
+
+- Still sick, tomorrow checkup for corona.
+- Working out my portfolio feels like a good move. Brings in the positivity and some small succes moments.
+- Products on github.
+
+## Day 24:
+
+** Thoughts: **
+- Forgot how fun it was to work with css.
+- Should be using a wireframe. 
+** Products: **
+- Finished basic content. 
+- Finished basic menu. 
+** work:** 
+https://github.com/jhhest/portolio-site
+
+
+
 
 ### Day 101:
 
