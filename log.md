@@ -188,8 +188,8 @@ https://github.com/jhhest/portolio-site
 - Did some color styling.
 - Made some nice heading in 80's style. 
 - Watched some information about framer motion. 
+- Also found a nice collection of icons (vscode pluging provides all kinds of icons for react/js/php/c#,c++ etc.)
 
-See my products on github. 
 
 
 
