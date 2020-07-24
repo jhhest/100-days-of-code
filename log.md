@@ -180,6 +180,16 @@ Off Day
 ** work:** 
 https://github.com/jhhest/portolio-site
 
+## Day 25: 
+** thoughts: **
+- Forgot how fun and challenging it can be to design a website. 
+- found some nice ideas. 
+** Progress: ** 
+- Did some color styling.
+- Made some nice heading in 80's style. 
+- Watched some information about framer motion. 
+
+See my products on github. 
 
 
 
