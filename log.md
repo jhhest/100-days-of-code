@@ -190,6 +190,14 @@ https://github.com/jhhest/portolio-site
 - Watched some information about framer motion. 
 - Also found a nice collection of icons (vscode pluging provides all kinds of icons for react/js/php/c#,c++ etc.)
 
+## Day 26: 
+** Thoughts: ** 
+- Still working on my portfolio. 
+- I should not forget about fcc. 
+- I should make a planning. 
+** Progress: ** 
+- I am making more hours a day for coding. 
+** Work: **
 
 
 
