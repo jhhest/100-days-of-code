@@ -199,6 +199,15 @@ https://github.com/jhhest/portolio-site
 - I am making more hours a day for coding. 
 ** Work: **
 
+## Day 27: 
+** Thoughts: ** 
+- Made a timeline for my portfolio site. 
+- happy with how it looks. 
+- I should make a planning. 
+** Progress: **
+- Working a lot of hours today.
+- Though is should be sleeping on time and start working on time. 
+-https://vanhest.netlify.app/
 
 
 ### Day 101:
