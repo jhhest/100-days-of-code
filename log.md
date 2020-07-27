@@ -209,7 +209,12 @@ https://github.com/jhhest/portolio-site
 - Though is should be sleeping on time and start working on time. 
 -https://vanhest.netlify.app/
 
-
+## Day 28: 
+** Thoughts and Progress: **
+- Finished up timeline. 
+- Made site mobile reponsive. 
+** Products: **
+https://vanhest.netlify.app/
 ### Day 101:
 
 Extra day.. Day 14 is was an off day.
