@@ -172,49 +172,85 @@ Off Day
 ## Day 24:
 
 ** Thoughts: **
-- Forgot how fun it was to work with css.
-- Should be using a wireframe. 
-** Products: **
-- Finished basic content. 
-- Finished basic menu. 
-** work:** 
-https://github.com/jhhest/portolio-site
 
-## Day 25: 
+- Forgot how fun it was to work with css.
+- Should be using a wireframe.
+  ** Products: **
+- Finished basic content.
+- Finished basic menu.
+  ** work:**
+  https://github.com/jhhest/portolio-site
+
+## Day 25:
+
 ** thoughts: **
-- Forgot how fun and challenging it can be to design a website. 
-- found some nice ideas. 
-** Progress: ** 
+
+- Forgot how fun and challenging it can be to design a website.
+- found some nice ideas.
+  ** Progress: **
 - Did some color styling.
-- Made some nice heading in 80's style. 
-- Watched some information about framer motion. 
+- Made some nice heading in 80's style.
+- Watched some information about framer motion.
 - Also found a nice collection of icons (vscode pluging provides all kinds of icons for react/js/php/c#,c++ etc.)
 
-## Day 26: 
-** Thoughts: ** 
-- Still working on my portfolio. 
-- I should not forget about fcc. 
-- I should make a planning. 
-** Progress: ** 
-- I am making more hours a day for coding. 
-** Work: **
+## Day 26:
 
-## Day 27: 
-** Thoughts: ** 
-- Made a timeline for my portfolio site. 
-- happy with how it looks. 
-- I should make a planning. 
-** Progress: **
+** Thoughts: **
+
+- Still working on my portfolio.
+- I should not forget about fcc.
+- I should make a planning.
+  ** Progress: **
+- I am making more hours a day for coding.
+  ** Work: **
+
+## Day 27:
+
+** Thoughts: **
+
+- Made a timeline for my portfolio site.
+- happy with how it looks.
+- I should make a planning.
+  ** Progress: **
 - Working a lot of hours today.
-- Though is should be sleeping on time and start working on time. 
--https://vanhest.netlify.app/
+- Though is should be sleeping on time and start working on time. -https://vanhest.netlify.app/
 
-## Day 28: 
+## Day 28:
+
 ** Thoughts and Progress: **
-- Finished up timeline. 
-- Made site mobile reponsive. 
+
+- Finished up timeline.
+  Made site mobile reponsive.
+
 ** Products: **
-https://vanhest.netlify.app/
+
+- https://develop-portfolio.netlify.app/
+- https://vanhest.netlify.app/
+
+## Day 29:
+
+** Thoughts and Progress: **
+
+- Finished up Portfolio, though is still have to add state and more interesting react possibilities. Atm it is just some basic, simple html/css with some functional components.
+- Added framer motion.  
+  ** Products: **
+
+## Day 30
+
+** Thoughts and progress:**
+
+- Made portfolio function that mimics loading from backend. Know i am able to make "loading" functionality.
+
+## Day 31
+
+** thoughts and progress:**
+
+- Following some video's about hooks, useEffect() UseState(), etc.
+
+## Day 32
+
+sick
+
 ### Day 101:
 
 Extra day.. Day 14 is was an off day.
@@ -226,6 +262,10 @@ Extra day.. Day 20 i was sick.
 ### Day 103:
 
 Extra day.. Day 21 i was Sick
+
+### Day 104:
+
+sick
 
 ### Day 0: February 30, 2016 (Example 1)
 
