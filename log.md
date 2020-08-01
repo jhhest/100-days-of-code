@@ -251,6 +251,10 @@ Off Day
 
 sick
 
+## Day 33: 
+
+**thought:** Followed traversy media course. 
+
 ### Day 101:
 
 Extra day.. Day 14 is was an off day.
