@@ -257,6 +257,8 @@ sick
 
 ## Day 34:
 
+**Thoughts:** Updated my portfolio site. 
+
 **thought:** Followed traversy media course.
 
 ### Day 101:
