@@ -251,9 +251,13 @@ Off Day
 
 sick
 
-## Day 33: 
+## Day 33:
 
-**thought:** Followed traversy media course. 
+**thought:** Followed traversy media course.
+
+## Day 34:
+
+**thought:** Followed traversy media course.
 
 ### Day 101:
 
