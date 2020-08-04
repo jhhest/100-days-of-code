@@ -261,6 +261,9 @@ sick
 
 **thought:** Followed traversy media course.
 
+## Day 35:** 
+- Updated my portfolio site. 
+- Followed traversy media course.
 ### Day 101:
 
 Extra day.. Day 14 is was an off day.
